@@ -1,0 +1,107 @@
+########################## hero area ##########################
+hero:
+  title: "I'm Ester \"Etty\" Sims"
+
+  # animated text loop
+  occupations:
+    - 'Web Developer'
+    - 'Academic Technologist'
+    - 'Hackathon Organizer'
+
+  # hero background image
+  bg_image: 'images/balibed3.jpg'
+  # optional mobile breakpoint background
+  mobile_bg_image: 'images/balibed4.jpg'
+
+########################### About ##################################
+about:
+  enable: true
+  image: 'images/bcwin.JPG'
+  title: 'THIS IS ME'
+  content: Hi, thank you for taking a look around my site. If you have any questions feel free to reach out on [LinkedIn, Github, or by email](#contact)!
+  
+
+###########################3 Experience ##############################
+experience:
+  enable: true
+  title: 'EXPERIENCE'
+  experience_list:
+    - name: Web Developer
+      company: Freelance
+      duration: '2015-Current'
+      content: I make websites.
+
+    - name: Academic Technologist
+      company: Broward College Computer Science & IT
+      duration: '2019-Current'
+      content: Supporting faculty and students in their online platform.
+
+    - name: Hackathon Organizer
+      company: Broward college
+      duration: '2019-Current'
+      content: Organizing the yearly BC hackathon "PlutoHacks". 
+
+    - name:  Lead Organizer - Volunteers
+      company: WordCamp Miami
+      duration: '2020'
+      content: Lead organizer in charge of 100+ volunteers for WordCamp Miami.
+
+############################### Skill #################################
+skill:
+  enable: true
+  title: 'SOME SKILLS'
+  showpercent: false
+  skill_list:
+    - name: 'Design'
+      percentage: '82%'
+
+    - name: 'Development'
+      percentage: '86%'
+
+    - name: 'Marketing'
+      percentage: '75%'
+
+    - name: 'Organizing'
+      percentage: '100%'
+
+######################### funfacts #############################3
+funfacts:
+  enable: true
+  funfacts_list:
+    - name: 'HACKATHONS WON'
+      image: 'images/icons/trophy1.png'
+      count: '1'
+
+    - name: 'SITES BUILT'
+      image: 'images/icons/web-development.png'
+      count: '15'
+
+    - name: 'MILES IN ONE MONTH RIDING FOR CHARITY'
+      image: 'images/icons/bike2.png'
+      count: '600'
+
+############################# portfolio ################################
+portfolio:
+  enable: true
+  title: 'MY WORK'
+  portfolio_list:
+    - name: Computer Science & IT Broward College
+      image: 'images/portfolio/csit.png'
+      url: https://csit.broward.edu/
+      description: Created in WorsPress.
+
+    - name: Dream Dance by Line Art Retail
+      image: 'images/portfolio/dremdancretail.png'
+      url: https://www.dreamdance.us/
+      description: Creted in Bigcommerce.
+      
+    - name: Cre8tive Devs Software
+      image: 'images/portfolio/Cre8tiveDevsSoftware.png'
+      url: https://creativedevssoftware.com/
+      description: Created in WordPress
+      
+    - name: Dream Dance By line Art Wholesale
+      image: 'images/portfolio/dremdancwholesale.png'
+      url: https://www.dreamdancebylineart.com/
+      description: Created in WIX
+      
