@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = 'http://example.org/'
+baseURL = 'https://estersims.github.io/estersdomain/'
 languageCode = 'en-us'
 title = "Ester's Domain"
 theme = 'port-hugo'
